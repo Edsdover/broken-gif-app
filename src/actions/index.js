@@ -15,9 +15,9 @@ const API_KEY = '3NPmnY44OnumyMDI1p8AT4V1FRsaShAI';
 
 // Enter your firebase config information here
 const firebaseConfig = {
-  apiKey: "AIzaSyCd7RYhZbA_rc9CnLy_eCVMn7hZIsdJ5u4",
-  authDomain: "giffy-test-app.firebaseapp.com",
-  databaseURL: "https://giffy-test-app.firebaseio.com"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: ""
 };
 
 firebase.initializeApp(firebaseConfig);
