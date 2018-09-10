@@ -49,8 +49,8 @@ Navigate to `http://localhost:3000/`. The app will automatically reload if you
 change and save any of the source files.
 
 ## Broken Items
-sortByUploadDate sort is broken
-unfavoriteGif missing
-gif-detail-modal style broken
-handleSortChange missing from search-bar.js
-import '../styles/gif-detail-modal.css'; removed import from gif-detail-modal.js
+* sortByUploadDate sort is broken
+* unfavoriteGif missing
+* gif-detail-modal style broken
+* handleSortChange missing from search-bar.js
+* import '../styles/gif-detail-modal.css'; removed import from gif-detail-modal.js
